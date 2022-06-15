@@ -1,0 +1,15 @@
+{
+  "material-icon-theme.files.associations": {
+    "Want to Learn Skills.md": "nim",
+    "Portfolio.md": "opa"
+  },
+  "material-icon-theme.languages.associations": {},
+  "material-icon-theme.folders.associations": {
+    "courses": "custom",
+    "DSA": "functions",
+    "Programming Languages": "vm",
+    "Portfolio": "mobile",
+    "Skills": "storybook",
+    "Entertainment": "intellij"
+  },
+}
